@@ -1,0 +1,4 @@
+def firstfun(num1,num2)
+    return num1+num2
+
+print(firstfun(3,7))
